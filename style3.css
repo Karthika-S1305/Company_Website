@@ -1,0 +1,13 @@
+.h1{
+	font-display: auto;
+	color: indianred;
+	font-size: 25px;
+}
+
+.f1{
+	background-color: lightgrey;
+
+}
+.fg.input{
+	padding: 2px;
+}
